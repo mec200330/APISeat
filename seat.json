@@ -1,501 +1,601 @@
 [{
     "id": 1,
     "name": 1,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 2,
     "name": 2,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 3,
     "name": 3,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 4,
     "name": 4,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 5,
     "name": 5,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 6,
     "name": 6,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 7,
     "name": 7,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 8,
     "name": 8,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 9,
     "name": 9,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 10,
     "name": 10,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 11,
     "name": 11,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 12,
     "name": 12,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 13,
     "name": 13,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 14,
     "name": 14,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 15,
     "name": 15,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 16,
     "name": 16,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 17,
     "name": 17,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 18,
     "name": 18,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 19,
     "name": 19,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 20,
     "name": 20,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 21,
     "name": 21,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 22,
     "name": 22,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 23,
     "name": 23,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 24,
     "name": 24,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 25,
     "name": 25,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 26,
     "name": 26,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 27,
     "name": 27,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 28,
     "name": 28,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 29,
     "name": 29,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 30,
     "name": 30,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 31,
     "name": 31,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 32,
     "name": 32,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 33,
     "name": 33,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 34,
     "name": 34,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 35,
     "name": 35,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 36,
     "name": 36,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 37,
     "name": 37,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 38,
     "name": 38,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 39,
     "name": 39,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 40,
     "name": 40,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 41,
     "name": 41,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 42,
     "name": 42,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 43,
     "name": 43,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 44,
     "name": 44,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 45,
     "name": 45,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 46,
     "name": 46,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 47,
     "name": 47,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 48,
     "name": 48,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 49,
     "name": 49,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 50,
     "name": 50,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 51,
     "name": 51,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 52,
     "name": 52,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 53,
     "name": 53,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 54,
     "name": 54,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 55,
     "name": 55,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 56,
     "name": 56,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 57,
     "name": 57,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 58,
     "name": 58,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 59,
     "name": 59,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 60,
     "name": 60,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 61,
     "name": 61,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 62,
     "name": 62,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 63,
     "name": 63,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 64,
     "name": 64,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 65,
     "name": 65,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 66,
     "name": 66,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 67,
     "name": 67,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 68,
     "name": 68,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 69,
     "name": 69,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 70,
     "name": 70,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 71,
     "name": 71,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 72,
     "name": 72,
+    "availableSeats": 100,
     "available":true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 73,
     "name": 73,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 74,
     "name": 74,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 75,
     "name": 75,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 76,
     "name": 76,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 77,
     "name": 77,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 78,
     "name": 78,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 79,
     "name": 79,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 80,
     "name": 80,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 81,
     "name": 81,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 82,
     "name": 82,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 83,
     "name": 83,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 84,
     "name": 84,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 85,
     "name": 85,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 86,
     "name": 86,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 87,
     "name": 87,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 88,
     "name": 88,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 89,
     "name": 89,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 90,
     "name": 90,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 91,
     "name": 91,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 92,
     "name": 92,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 93,
     "name": 93,
+    "availableSeats": 100,
     "available": false,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 94,
     "name": 94,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 95,
     "name": 95,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 96,
     "name": 96,
+    "availableSeats": 100,
     "available": false,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 97,
     "name": 97,
+    "availableSeats": 100,
     "available": false,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 98,
     "name": 98,
+    "availableSeats": 100,
     "available": false,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 99,
     "name": 99,
+    "availableSeats": 100,
     "available": false,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }, {
     "id": 100,
     "name": 100,
+    "availableSeats": 100,
     "available": true,
     "img": "https://res.cloudinary.com/dw4ai2d9d/image/upload/v1677413253/Seatcinema/Seatcine_zs1m3v.png"
   }]
